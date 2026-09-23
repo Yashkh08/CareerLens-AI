@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+*.pyc
+*.pyo
+.DS_Store
+career_lens.db
